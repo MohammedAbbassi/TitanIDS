@@ -1,4 +1,4 @@
-# 🛡️ TITAN IDS v2.0
+# 🛡️ TITAN IDS-N BETA
 
 **A modular Intrusion Detection System (IDS) built in Python**  
 Detects port scans, SYN floods, and brute-force attempts with real-time alerts.
