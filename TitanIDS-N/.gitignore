@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
 *.log
-*.tmp
-tmp*
 .env
-venv/
+logs/
+state/
