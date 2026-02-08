@@ -55,36 +55,6 @@ python src/main.py
 
 Alerts will be displayed in the console and saved in data/ids.log.
 
-**Project Structure:**
-
-TitanIDS-H/
-│
-├── src/                # Core IDS source code
-│   ├── main.py
-│   ├── alerts.py
-│   ├── capture.py
-│   ├── config.py
-│   ├── logger.py
-│   ├── output.py
-│   ├── processing.py
-│   └── rules.py
-│
-├── tests/              # Unit and functional tests
-│   ├── __init__.py
-│   ├── test_fallback.py
-│   ├── test_log.log
-│   ├── test_severity.py
-│   ├── test_whitelist.py
-│   └── verify_*.py
-│
-├── data/               # Logs and JSON alerts
-│   ├── ids.log
-│   └── alerts.json
-│
-├── README.md
-├── LICENSE
-└── requirements.txt
-
 Contributing
 
 Contributions are welcome! Please follow these steps:
