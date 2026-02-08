@@ -1,4 +1,4 @@
-# TitanIDS-H 🚨
+# TitanIDS-H BETA 🚨
 
 **TitanIDS-H** is a Host-based Intrusion Detection System (HIDS) designed to monitor Windows endpoints for suspicious activity in real-time. It detects persistence artifacts, suspicious processes, and other host-level anomalies to enhance endpoint security.
 
