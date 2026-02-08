@@ -1,0 +1,15 @@
+{
+  "throttle": {
+    "default": 60,
+    "detectors": {
+      "suspicious_process": 120,
+      "persistence": 300,
+      "bruteforce_auth": 30
+    }
+  },
+  "dedupe_key": {
+    "suspicious_process": ["name", "cmdline"],
+    "persistence": ["entry_fp"],
+    "bruteforce_auth": ["account", "ip"]
+  }
+}

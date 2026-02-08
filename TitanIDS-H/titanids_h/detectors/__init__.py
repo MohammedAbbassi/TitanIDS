@@ -1,0 +1,3 @@
+from .suspicious_process import SuspiciousProcessDetector
+from .persistence import PersistenceDetector
+from .bruteforce_auth import BruteForceAuthDetector
